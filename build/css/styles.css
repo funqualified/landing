@@ -11754,3 +11754,9 @@ fieldset:disabled .btn {
   width: 4rem;
   font-size: 2rem;
 }
+
+/* My classes */
+.content-star {
+  color: #ddd700;
+  position: relative;
+}
